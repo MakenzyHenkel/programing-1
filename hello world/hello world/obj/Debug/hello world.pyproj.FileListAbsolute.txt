@@ -1,0 +1,12 @@
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\bin\Debug\hello world.exe.config
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\bin\Debug\hello world.exe
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\bin\Debug\hello world.dll
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\bin\Debug\IronPython.dll
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\bin\Debug\IronPython.Modules.dll
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\bin\Debug\Microsoft.Scripting.dll
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\obj\Debug\hello world.pyprojResolveAssemblyReference.cache
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\obj\Debug\hello_world.MainForm.resources
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\obj\Debug\hello world.pyproj.GenerateResource.Cache
+C:\Users\henkel.m\Desktop\programing 1\hello world\hello world\obj\Debug\hello world.exe
